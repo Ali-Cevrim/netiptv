@@ -1,0 +1,63 @@
+#EXTM3U
+
+# === TRT ===
+#EXTINF:-1 group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Spor Yıldız
+https://tv-trtsporyildiz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+# === Haber ===
+#EXTINF:-1 group-title="Haber",Habertürk
+https://live2.haberturk.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 group-title="Haber",Sözcü TV
+https://sozcu-live.daioncdn.net/sozcutv/sozcutv.m3u8
+
+# === Ulusal ===
+#EXTINF:-1 group-title="Ulusal",Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8
+
+# === Avrupa ===
+#EXTINF:-1 group-title="Avrupa",Euro D
+https://eurod.daioncdn.net/eurod/eurod.m3u8
+
+# === Dünya ===
+#EXTINF:-1 group-title="Dünya",BBC News
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news24_continuous_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 group-title="Dünya",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
