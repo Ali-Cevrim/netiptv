@@ -1,0 +1,51 @@
+#EXTM3U
+
+# ===== TRT =====
+#EXTINF:-1 group-title="📺 TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📺 TRT",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+# ===== Turkije =====
+# Commerciële zenders vereisen vaak dynamische of beveiligde streams.
+# Voeg actuele, publieke URL's toe wanneer beschikbaar.
+#EXTINF:-1 group-title="🇹🇷 Turkije",CNN Türk
+# URL HIER
+#EXTINF:-1 group-title="🇹🇷 Turkije",Habertürk
+# URL HIER
+#EXTINF:-1 group-title="🇹🇷 Turkije",NTV
+# URL HIER
+#EXTINF:-1 group-title="🇹🇷 Turkije",Sözcü TV
+# URL HIER
+
+# ===== Europa =====
+#EXTINF:-1 group-title="🇪🇺 Europa",Euro D
+# URL HIER
+#EXTINF:-1 group-title="🇪🇺 Europa",Euro Star
+# URL HIER
+#EXTINF:-1 group-title="🇪🇺 Europa",Show Türk
+# URL HIER
+
+# ===== Wereld =====
+#EXTINF:-1 group-title="🌍 Wereld",BBC News
+# URL HIER
+#EXTINF:-1 group-title="🌍 Wereld",DW
+# URL HIER
