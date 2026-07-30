@@ -1,0 +1,112 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml"
+# NetIPTV Türk Kanalları 6_0
+# Gruplar: TRT, Haber, Ulusal, Avrupa, Dünya
+# Güncelleme: 30-07-2026
+
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="TRT",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 tvg-id="TRT2.tr" group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" group-title="TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" group-title="TRT",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="Haber",Halk TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+
+#EXTINF:-1 tvg-id="SZC.tr" group-title="Haber",Sözcü TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="Haber",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" group-title="Haber",TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+#EXTINF:-1 tvg-id="24TV.tr" group-title="Haber",24 TV
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+
+#EXTINF:-1 tvg-id="TVNET.tr" group-title="Haber",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AkitTV.tr" group-title="Haber",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="Haber",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr" group-title="Ulusal",TV8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" group-title="Ulusal",Teve2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Ulusal",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" group-title="Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" group-title="Ulusal",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" group-title="Ulusal",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" group-title="Ulusal",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-id="WomanTV.tr" group-title="Ulusal",Woman TV
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" group-title="Avrupa",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Dünya",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" group-title="Dünya",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-id="France24English.fr" group-title="Dünya",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="Dünya",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Dünya",NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
