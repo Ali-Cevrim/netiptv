@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml"
+# NetIPTV Turkse Favorieten 1.1
+# Bijgewerkt 30-07-2026
+# Alleen publiek bekende streams; uitzendingen kunnen geografisch beperkt zijn.
+
+
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="📺 TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" group-title="📺 TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="📺 TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="📺 TRT",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" group-title="📺 TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" group-title="📺 TRT",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="📺 TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" group-title="📺 TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="📺 TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" group-title="📺 TRT",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="📺 TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="📺 TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" group-title="📰 Türkiye Haber",CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_1_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="📰 Türkiye Haber",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" group-title="📰 Türkiye Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="SZCTV.tr" group-title="📰 Türkiye Haber",Sözcü TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="📰 Türkiye Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="📰 Türkiye Haber",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" group-title="📰 Türkiye Haber",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-id="TVNET.tr" group-title="📰 Türkiye Haber",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" group-title="📰 Türkiye Haber",Ülke TV
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+
+#EXTINF:-1 tvg-id="AkitTV.tr" group-title="📰 Türkiye Haber",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="📰 Türkiye Haber",Bloomberg HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="BenguTurkTV.tr" group-title="📰 Türkiye Haber",Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="🇹🇷 Türkiye Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="🇹🇷 Türkiye Ulusal",Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="🇹🇷 Türkiye Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="🇹🇷 Türkiye Ulusal",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" group-title="🇹🇷 Türkiye Ulusal",Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360TV.tr" group-title="🇹🇷 Türkiye Ulusal",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="DiyanetTV.tr" group-title="🎵 Kültür Müzik",Diyanet TV
+https://diyanet-live.ercdn.net/diyanettv/diyanettv.m3u8
+
+#EXTINF:-1 tvg-id="SemerkandTV.tr" group-title="🎵 Kültür Müzik",Semerkand TV
+https://semerkandtv-live.ercdn.net/semerkandtv/semerkandtv.m3u8
+
+#EXTINF:-1 tvg-id="LalegulTV.tr" group-title="🎵 Kültür Müzik",Lâlegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="🎵 Kültür Müzik",Dream Türk
+https://dogus-live.daioncdn.net/dreamturk/dreamturk.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" group-title="🎵 Kültür Müzik",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",KAY TV Kayseri
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Hunat TV Kayseri
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",TV1 Kayseri
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal 19 Çorum
+https://live.euromediacenter.com/kanal19/index.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal 23 Elazığ
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal 26 Eskişehir
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal 32 Isparta
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal 58 Sivas
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Kanal Urfa
+https://stream1.rtvtakip.com:1936/kanalurfa/kanalurfa/playlist.m3u8
+
+#EXTINF:-1 group-title="🏙️ Türkiye Yerel",Rumeli TV
+https://rumelitv-live.ercdn.net/rumelitv/rumelitv.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="🇪🇺 Avrupa Türkçe",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+
+#EXTINF:-1 group-title="🇪🇺 Avrupa Türkçe",Tivi Türk Almanya
+https://stream.tiviturk.de/live/tiviturk.m3u8
