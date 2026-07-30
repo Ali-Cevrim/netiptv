@@ -1,0 +1,144 @@
+#EXTM3U
+# Indeling voor NetIPTV.
+# Let op: commerciële Turkse zenders publiceren vaak geen stabiele publieke M3U-streams.
+# Daarom moeten de URL's periodiek worden bijgewerkt.
+
+#EXTINF:-1 group-title="TRT",TRT 1
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT 2
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Haber
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Spor
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Spor Yıldız
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Belgesel
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Türk
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Avaz
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Kurdî
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Müzik
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Çocuk
+# STREAM-URL
+#EXTINF:-1 group-title="TRT",TRT Diyanet
+# STREAM-URL
+
+#EXTINF:-1 group-title="Haber",CNN Türk
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Habertürk
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",NTV
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Sözcü TV
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Halk TV
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Haber Global
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",TGRT Haber
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",TV100
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Bloomberg HT
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",24 TV
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Ülke TV
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",TVNET
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Bengü Türk
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",A Haber
+# STREAM-URL
+#EXTINF:-1 group-title="Haber",Akit TV
+# STREAM-URL
+
+#EXTINF:-1 group-title="Ulusal",Kanal D
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Show TV
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Star TV
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",NOW
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",ATV
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",TV8
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Kanal 7
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Beyaz TV
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Teve2
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",Dream Türk
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",PowerTürk TV
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",CNBC-e
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",DMAX
+# STREAM-URL
+#EXTINF:-1 group-title="Ulusal",TLC
+# STREAM-URL
+
+#EXTINF:-1 group-title="Avrupa",Euro D
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Euro Star
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Euro Show
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Euro ATV
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Show Türk
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Kanal 7 Avrupa
+# STREAM-URL
+#EXTINF:-1 group-title="Avrupa",Tivi Türk
+# STREAM-URL
+
+#EXTINF:-1 group-title="Yerel",KAY TV
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",ETV Kayseri
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Hunat TV
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",TV1 Kayseri
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal 19
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal 23
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal 26
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal 32
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal 58
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Kanal Urfa
+# STREAM-URL
+#EXTINF:-1 group-title="Yerel",Rumeli TV
+# STREAM-URL
+
+#EXTINF:-1 group-title="Dünya",TRT World
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",BBC News
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",DW
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",France 24
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",Euronews
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",Al Jazeera English
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",Bloomberg TV
+# STREAM-URL
+#EXTINF:-1 group-title="Dünya",NHK World
+# STREAM-URL
