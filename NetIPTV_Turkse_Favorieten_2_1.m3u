@@ -1,0 +1,141 @@
+#EXTM3U
+# Structuurtemplate; vervang stream-URL's per kanaal.
+#EXTINF:-1 group-title="TRT",001 TRT 1
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",002 TRT 2
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",003 TRT Haber
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",004 TRT Spor
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",005 TRT Spor Yıldız
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",006 TRT Belgesel
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",007 TRT Türk
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",008 TRT Avaz
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",009 TRT Kurdî
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",010 TRT Müzik
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",011 TRT Çocuk
+#STREAM_URL
+#EXTINF:-1 group-title="TRT",012 TRT Diyanet
+#STREAM_URL
+
+#EXTINF:-1 group-title="Haber",100 CNN Türk
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",101 Habertürk
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",102 NTV
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",103 Sözcü TV
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",104 Halk TV
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",105 Haber Global
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",106 TGRT Haber
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",107 TV100
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",108 Bloomberg HT
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",109 24 TV
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",110 Ülke TV
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",111 TVNET
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",112 Bengü Türk
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",113 A Haber
+#STREAM_URL
+#EXTINF:-1 group-title="Haber",114 Akit TV
+#STREAM_URL
+
+#EXTINF:-1 group-title="Ulusal",200 Kanal D
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",201 Show TV
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",202 Star TV
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",203 NOW
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",204 ATV
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",205 TV8
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",206 Kanal 7
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",207 Beyaz TV
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",208 Teve2
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",209 Dream Türk
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",210 PowerTürk TV
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",211 CNBC-e
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",212 DMAX
+#STREAM_URL
+#EXTINF:-1 group-title="Ulusal",213 TLC
+#STREAM_URL
+
+#EXTINF:-1 group-title="Avrupa",300 Euro D
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",301 Euro Star
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",302 Euro Show
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",303 Euro ATV
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",304 Show Türk
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",305 Kanal 7 Avrupa
+#STREAM_URL
+#EXTINF:-1 group-title="Avrupa",306 Tivi Türk
+#STREAM_URL
+
+#EXTINF:-1 group-title="Yerel",400 KAY TV
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",401 ETV Kayseri
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",402 Hunat TV
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",403 TV1 Kayseri
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",404 Kanal 19
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",405 Kanal 23
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",406 Kanal 26
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",407 Kanal 32
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",408 Kanal 58
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",409 Kanal Urfa
+#STREAM_URL
+#EXTINF:-1 group-title="Yerel",410 Rumeli TV
+#STREAM_URL
+
+#EXTINF:-1 group-title="Dünya",500 TRT World
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",501 BBC News
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",502 DW
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",503 France 24
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",504 Euronews
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",505 Al Jazeera English
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",506 Bloomberg TV
+#STREAM_URL
+#EXTINF:-1 group-title="Dünya",507 NHK World
+#STREAM_URL
