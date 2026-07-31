@@ -1,0 +1,20 @@
+#EXTM3U
+# NetIPTV Turkse Favorieten v10.1 HQ (structuur)
+
+# Regels:
+# - Hoofdfeed altijd eerst.
+# - Alleen echte unieke alternatieven opnemen.
+# - Geen dubbele URL's.
+# - Yedek 1, 2, 3... alleen indien unieke werkende feeds bestaan.
+
+# Voorbeeld:
+#EXTINF:-1 group-title="📰 Haber",Habertürk
+https://example-main-feed.invalid/haberturk.m3u8
+#EXTINF:-1 group-title="📰 Haber",Habertürk (Yedek 1)
+https://example-alt1.invalid/haberturk.m3u8
+#EXTINF:-1 group-title="📰 Haber",Habertürk (Yedek 2)
+https://example-alt2.invalid/haberturk.m3u8
+
+# Voorbeeld met slechts één feed:
+#EXTINF:-1 group-title="📺 Ulusal",TV8.5
+https://example-main-feed.invalid/tv85.m3u8
