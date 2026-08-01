@@ -11,7 +11,7 @@ https://tv-trtspor.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-turk-tr.png" group-title="📺 TRT",TRT 5 (TRT Türk)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT 6 (TRT Kurdî)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="📺 TRT",TRT 6 (TRT Kurdî)
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="📺 TRT",TRT 6 (TRT Kurdî)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yıldız" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-spor-yildiz-tr.png" group-title="📺 TRT",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
