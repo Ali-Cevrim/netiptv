@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/nl.xml"
-# Versie 10.1 HQ — unieke feeds; reserves alleen bij afwijkende endpoints.
-# Hoofdstream eerst; daarna Yedek 1, Yedek 2, enzovoort.
+# Versie 9.4 — gevraagde HQ-feeds toegevoegd/vervangen onder Ulusal; TRT World onder Dünya.
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-1-tr.png" group-title="📺 TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-2-tr.png" group-title="📺 TRT",TRT 2
@@ -77,18 +76,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/a-haber-tr.png" group-title="📰 Haber",A Haber (Yedek 2)
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="📰 Haber",Ülke TV
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="📰 Haber",Ülke TV (Yedek 1)
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="📰 Haber",Ülke TV (Yedek 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.ulketv.com/
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="📰 Haber",İlke TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://ilketv.com.tr/canli-yayin/
-https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="🇹🇷 Ulusal",Beyaz TV
@@ -123,20 +110,12 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcysilzixqthgjiybzo/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lâlegül TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/lalegul-tv-tr.png" group-title="🇹🇷 Ulusal",Lâlegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="🇹🇷 Ulusal",Kanal D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/canli-yayin
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Ulusal",Show TV (Yedek 1)
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Ulusal",Show TV (Yedek 2)
 https://live20.bozztv.com/trn09/gin-showtv/index.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Ulusal",Star TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.startv.com.tr/canli-yayin
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Ulusal",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Ulusal",NOW (Yedek 1)
@@ -151,6 +130,49 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="CNBCE.tr" group-title="🇹🇷 Ulusal",CNBC-e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="🇹🇷 Ulusal",Cine 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="🇹🇷 Ulusal",Deniz Postası TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 Ulusal",ES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 Ulusal",Çiftçi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="A2.tr" group-title="🇹🇷 Ulusal",A2 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="A2.tr" group-title="🇹🇷 Ulusal",A2 TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="🇹🇷 Ulusal",İlke TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://ilketv.com.tr/canli-yayin/
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="🇹🇷 Ulusal",Ülke TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="🇹🇷 Ulusal",Ülke TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="🇹🇷 Ulusal",Ülke TV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.ulketv.com/
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="🇹🇷 Ulusal",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/canli-yayin
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Ulusal",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/canli-yayin
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D (Yedek 1)
@@ -173,13 +195,6 @@ https://showturk-live.daioncdn.net/showturk/showturk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.atv.com.tr/
 https://trkvz-live.daioncdn.net/atvavrupa/atvavrupa.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 1)
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 2)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/512px-Deutsche_Welle_Logo.svg.png" group-title="🌍 Dünya",DW English
 https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/512px-FRANCE_24_logo.svg.png" group-title="🌍 Dünya",France 24 English
@@ -194,6 +209,15 @@ https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="🌍 Dünya",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/sbs-6-classics-nl.png" group-title="🇳🇱 Hollanda",SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF Nederland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/tmf-nl.png" group-title="🇳🇱 Hollanda",TMF Nederland
