@@ -57,9 +57,9 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/sozcu-tv-tr.png" group-title="📰 Haber",Sözcü TV (Yedek 2)
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV (Yedek 1)
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&app=7c4bb802-0c41-409e-8cd2-799984995694
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV (Yedek 1)
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV (Yedek 2)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/bloomberg-ht-tr.png" group-title="📰 Haber",Bloomberg HT
@@ -119,9 +119,9 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Ulusal",TV8 (Yedek 2)
 https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5 (Yedek 1)
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5 (Yedek 1)
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5 (Yedek 2)
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="🇹🇷 Ulusal",Teve2
@@ -157,7 +157,7 @@ https://nowtv-live.ercdn.net/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV (Yedek 1)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D (Yedek 1)
@@ -193,7 +193,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="🌍 Dünya",Bloomberg Television
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="🌍 Dünya",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/sbs-6-classics-nl.png" group-title="🇳🇱 Hollanda",SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF Nederland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/tmf-nl.png" group-title="🇳🇱 Hollanda",TMF Nederland
