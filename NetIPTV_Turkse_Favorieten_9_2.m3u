@@ -11,7 +11,7 @@ https://tv-trtspor.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-turk-tr.png" group-title="📺 TRT",TRT 5 (TRT Türk)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="📺 TRT",TRT 6 (TRT Kurdî)
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT 6 (TRT Kurdî)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="📺 TRT",TRT 6 (TRT Kurdî)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yıldız" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-spor-yildiz-tr.png" group-title="📺 TRT",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
@@ -83,8 +83,12 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="📰 Haber",Ülke TV (Yedek 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.ulketv.com/
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="📰 Haber",İlke TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://ilketv.com.tr/canli-yayin/
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="🇹🇷 Ulusal",Beyaz TV
@@ -121,6 +125,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcysilzixqthgjiybzo/play
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="🇹🇷 Ulusal",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/canli-yayin
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Ulusal",Show TV (Yedek 1)
@@ -129,14 +135,20 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 https://live20.bozztv.com/trn09/gin-showtv/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Ulusal",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/canli-yayin
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Ulusal",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Ulusal",NOW (Yedek 1)
 https://nowtv-live.ercdn.net/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Ulusal",NOW (Yedek 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/canli-yayin
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/canli-yayin
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV (Yedek 1)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
@@ -151,12 +163,19 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="🇪🇺 Avrupa",Euro Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+https://startv-live.daioncdn.net/startv/eurostar.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="🇪🇺 Avrupa",Show Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.showtv.com.tr/
+https://showturk-live.daioncdn.net/showturk/showturk.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-avrupa-tr.png" group-title="🇪🇺 Avrupa",ATV Avrupa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+https://trkvz-live.daioncdn.net/atvavrupa/atvavrupa.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 1)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="🌍 Dünya",TRT World (Yedek 2)
