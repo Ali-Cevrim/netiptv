@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/nl.xml"
-# Versie 9.4 — gevraagde HQ-feeds toegevoegd/vervangen onder Ulusal; TRT World onder Dünya.
+# Versie 9.5 — ATV, NTV en TV8: alleen de bovenste werkende feed behouden als origineel.
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-1-tr.png" group-title="📺 TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-2-tr.png" group-title="📺 TRT",TRT 2
@@ -36,12 +36,8 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/sozcu-tv-tr.png" group-title="📰 Haber",Sözcü TV (Yedek 2)
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV (Yedek 1)
-http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="📰 Haber",NTV (Yedek 2)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/bloomberg-ht-tr.png" group-title="📰 Haber",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-100-tr.png" group-title="📰 Haber",TV100
@@ -84,12 +80,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="🇹🇷 Ulusal",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Ulusal",TV8 (Yedek 1)
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Ulusal",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Ulusal",TV8 (Yedek 2)
-https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Ulusal",TV8.5 (Yedek 1)
@@ -124,12 +116,8 @@ https://nowtv-live.ercdn.net/nowtv/nowtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/canli-yayin
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV (Yedek 1)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTVLCOPT:http-referrer=https://www.atv.com.tr/canli-yayin
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Ulusal",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="CNBCE.tr" group-title="🇹🇷 Ulusal",CNBC-e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
