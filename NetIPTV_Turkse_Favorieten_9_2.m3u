@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/nl.xml"
-# Versie 9.7 — werkende feeds voor ATV, NTV en TV8 hersteld.
+# Versie 9.4 — gevraagde HQ-feeds toegevoegd/vervangen onder Ulusal; TRT World onder Dünya.
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-1-tr.png" group-title="📺 TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-2-tr.png" group-title="📺 TRT",TRT 2
