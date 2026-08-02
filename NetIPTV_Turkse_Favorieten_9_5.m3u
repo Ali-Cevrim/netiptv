@@ -78,57 +78,57 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/a-haber-tr.png" group-title="📰 Haber",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="Popüler",Kanal 7
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Türkiye",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="Popüler",Beyaz TV
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="🇹🇷 Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/360-tr.png" group-title="Popüler",360
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/360-tr.png" group-title="🇹🇷 Türkiye",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="Popüler",TV4
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="🇹🇷 Türkiye",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="Popüler",TV8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Türkiye",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="Popüler",TV8.5
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="🇹🇷 Türkiye",TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="Popüler",Teve2
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="🇹🇷 Türkiye",Teve2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/dmax-tr.png" group-title="Popüler",DMAX
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/dmax-tr.png" group-title="🇹🇷 Türkiye",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tlc-tr.png" group-title="Popüler",TLC
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tlc-tr.png" group-title="🇹🇷 Türkiye",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/dream-turk-tr.png" group-title="Popüler",Dream Türk
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/dream-turk-tr.png" group-title="🇹🇷 Türkiye",Dream Türk
 https://dogus.daioncdn.net/dreamturk/dreamturk.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="Popüler",PowerTürk TV
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="🇹🇷 Türkiye",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/semerkand-tv-tr.png" group-title="Popüler",Semerkand TV
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/semerkand-tv-tr.png" group-title="🇹🇷 Türkiye",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcysilzixqthgjiybzo/playlist.m3u8
-#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lâlegül TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/lalegul-tv-tr.png" group-title="Popüler",Lâlegül TV
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lâlegül TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/lalegul-tv-tr.png" group-title="🇹🇷 Türkiye",Lâlegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="Popüler",Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Türkiye",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="Popüler",NOW
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Türkiye",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="Popüler",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Türkiye",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTINF:-1 tvg-id="CNBCE.tr" group-title="Popüler",CNBC-e
+#EXTINF:-1 tvg-id="CNBCE.tr" group-title="🇹🇷 Türkiye",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="Popüler",Cine 1
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 group-title="Popüler",Deniz Postası TV
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Deniz Postası TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="Popüler",ES TV
+#EXTINF:-1 group-title="🇹🇷 Türkiye",ES TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="Popüler",Çiftçi TV
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Çiftçi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="A2.tr" group-title="Popüler",A2 TV
+#EXTINF:-1 tvg-id="A2.tr" group-title="🇹🇷 Türkiye",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Popüler",İlke TV
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="🇹🇷 Türkiye",İlke TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="Popüler",Ülke TV
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="🇹🇷 Türkiye",Ülke TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="Popüler",Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="🇹🇷 Türkiye",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="Popüler",Star TV
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Türkiye",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -216,5 +216,5 @@ https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltostadsfm/master.m3u
 https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltomokumradio/master.m3u8
 #EXTINF:-1 tvg-id="SALTORazo.nl" tvg-name="SALTO Razo" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/salto-nl.png" group-title="🇳🇱 Hollanda",SALTO Razo
 https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltorazo/master.m3u8
-#EXTINF:-1 group-title="Popüler",Afrotürk TV
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Afrotürk TV
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
