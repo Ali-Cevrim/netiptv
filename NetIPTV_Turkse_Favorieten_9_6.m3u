@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-1-tr.png" group-title="📺 TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-muzik-tr.png" group-title="🇹🇷 Türkiye",TRT Muzik
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-muzik-tr.png" group-title="📺 TRT",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-turk-tr.png" group-title="📺 TRT",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -141,3 +141,5 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="🌍 Dünya",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/512px-Deutsche_Welle_Logo.svg.png" group-title="🌍 Dünya",DW English
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 INT" group-title="🇪🇺 Avrupa",Kanal 7 INT
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
