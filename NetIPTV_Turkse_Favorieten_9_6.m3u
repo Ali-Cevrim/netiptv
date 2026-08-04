@@ -7,8 +7,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="📺 TRT",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Diyanet_TV_logo.png" group-title="📺 TRT",Diyanet TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-cocuk-tr.png" group-title="📺 TRT",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-avaz-tr.png" group-title="📺 TRT",TRT Avaz
@@ -47,56 +45,6 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 group-title="📰 Haber",Ulusal Kanal
 # Placeholder - feed to be added
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Türkiye",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Kanal D
-# Placeholder - feed to be added
-#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Türkiye",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Türkiye",Show TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Türkiye",Star TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Türkiye",TV8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Türkiye",Kanal 7
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="🇹🇷 Türkiye",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="🇹🇷 Türkiye",Teve2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 tvg-id="A2.tr" group-title="🇹🇷 Türkiye",A2 TV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="CNBCE.tr" group-title="🇹🇷 Türkiye",CNBC-e
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/360-tr.png" group-title="🇹🇷 Türkiye",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="🇹🇷 Türkiye",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="🇹🇷 Türkiye",PowerTürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Kral TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Kral Pop TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Number One TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Number One Türk
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Tatlıses TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",A Spor
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",HT Spor
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Sports TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",TV Kayseri
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Kanal 38
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Kay TV
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="🇹🇷 Türkiye",Erciyes
-# Placeholder - feed to be added
 #EXTINF:-1 tvg-id="ZuidWestTV.nl" tvg-name="ZuidWest TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/zuidwest-tv-nl.png" group-title="🇳🇱 Hollanda",ZuidWest TV
 https://live.zuidwesttv.nl/live/zwtv.m3u8
 #EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/bvn-nl.png" group-title="🇳🇱 Hollanda",BVN
@@ -121,12 +69,6 @@ https://stream.slam.nl/slamtv.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="🇳🇱 Hollanda",SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-avrupa-tr.png" group-title="🇪🇺 Avrupa",ATV Avrupa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="🇪🇺 Avrupa",Euro Star
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="🇪🇺 Avrupa",Show Türk
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="🌍 Dünya",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/512px-FRANCE_24_logo.svg.png" group-title="🌍 Dünya",France 24 English
@@ -141,9 +83,67 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/512px-Deutsche_Welle_Logo.svg.png" group-title="🌍 Dünya",DW English
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 INT" group-title="🇪🇺 Avrupa",Kanal 7 INT
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Türkiye",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Türkiye",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="🇹🇷 Türkiye",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Kanal D
+# Placeholder - feed to be added
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Türkiye",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Türkiye",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Türkiye",TV8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Türkiye",Kanal 7
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/360-tr.png" group-title="🇹🇷 Türkiye",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="🇹🇷 Türkiye",A Spor
+# Placeholder - feed to be added
+#EXTINF:-1 tvg-id="A2.tr" group-title="🇹🇷 Türkiye",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/beyaz-tv-tr.png" group-title="🇹🇷 Türkiye",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="CNBCE.tr" group-title="🇹🇷 Türkiye",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Erciyes
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",HT Spor
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Kanal 38
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Kay TV
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Kral Pop TV
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Kral TV
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Number One TV
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Number One Türk
+# Placeholder - feed to be added
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="🇹🇷 Türkiye",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Sports TV
+# Placeholder - feed to be added
+#EXTINF:-1 group-title="🇹🇷 Türkiye",TV Kayseri
+# Placeholder - feed to be added
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="🇹🇷 Türkiye",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="🇹🇷 Türkiye",Tatlıses TV
+# Placeholder - feed to be added
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="🇹🇷 Türkiye",Teve2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Diyanet_TV_logo.png" group-title="🇹🇷 Türkiye",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="🇪🇺 Avrupa",Euro Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="🇪🇺 Avrupa",Show Türk
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-avrupa-tr.png" group-title="🇪🇺 Avrupa",ATV Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
