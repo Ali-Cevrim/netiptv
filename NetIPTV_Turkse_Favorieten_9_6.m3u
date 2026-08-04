@@ -41,12 +41,8 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 group-title="📰 Haber",İlke TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 group-title="📰 Haber",Tele1
-# Placeholder - feed to be added
-#EXTINF:-1 group-title="📰 Haber",KRT TV
-# Placeholder - feed to be added
 #EXTINF:-1 group-title="📰 Haber",Flash Haber
-# Placeholder - feed to be added
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 # Placeholder - feed to be added
 #EXTINF:-1 group-title="📰 Haber",Ulusal Kanal
 # Placeholder - feed to be added
