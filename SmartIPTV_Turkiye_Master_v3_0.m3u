@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-1-tr.png" group-title="Popüler",TRT 1 (TRT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-2-tr.png" group-title="Popüler",TRT 2 (TRT 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT 3 (TRT Haber)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-haber-tr.png" group-title="Popüler",TRT 3 (TRT Haber)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT 4 (TRT Spor)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-spor-tr.png" group-title="Türkiye",TRT 4 (TRT Spor)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT 5 (TRT Türk)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-turk-tr.png" group-title="Popüler",TRT 5 (TRT Türk)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT 6 (TRT Kurdî)" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-kurdi-tr.png" group-title="Popüler",TRT 6 (TRT Kurdî)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yıldız" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-spor-yildiz-tr.png" group-title="Türkiye",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-belgesel-tr.png" group-title="Türkiye",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-avaz-tr.png" group-title="Popüler",TRT Avaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-muzik-tr.png" group-title="Popüler",TRT Müzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-cocuk-tr.png" group-title="Türkiye",TRT Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="Popüler",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Popüler",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="Popüler",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/canli-yayin
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="Popüler",Kanal 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="Popüler",NOW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="Popüler",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="Popüler",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/canli-yayin
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="Popüler",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="Popüler",TV8,5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/cnn-turk-tr.png" group-title="Popüler",CNN Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="Popüler",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&app=7c4bb802-0c41-409e-8cd2-799984995694
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/haberturk-tr.png" group-title="Popüler",Habertürk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
+#EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/sozcu-tv-tr.png" group-title="Popüler",Sözcü TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/halk-tv-tr.png" group-title="Popüler",Halk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" group-title="Popüler",A Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tgrt-haber-tr.png" group-title="Popüler",TGRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/haber-global-tr.png" group-title="Popüler",Haber Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://haberglobal-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Popüler",Bloomberg HT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV" group-title="Popüler",360 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="A2.tr" tvg-name="A2" group-title="Popüler",A2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" group-title="Popüler",Beyaz TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="Cine 1" group-title="Popüler",Cine 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tlc-tr.png" group-title="Türkiye",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-name="Flash Haber" group-title="Popüler",Flash Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Bengü Türk" group-title="Popüler",Bengü Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="Popüler",Teve2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="Popüler",ATV Alanya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="Popüler",Ülke TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Popüler",İlke TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://ilketv.com.tr/canli-yayin/
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" group-title="Popüler",24 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="Popüler",Afrotürk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/dmax-tr.png" group-title="Türkiye",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="Türkiye",Kanal 7 Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-100-tr.png" group-title="Türkiye",TV100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="Türkiye",Dream Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Türkiye",Euro D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="Türkiye",Euro Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+https://startv-live.daioncdn.net/startv/eurostar.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="Türkiye",Show Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.showtv.com.tr/
+https://showturk-live.daioncdn.net/showturk/showturk.m3u8
+#EXTINF:-1 group-title="Türkiye",4U TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkiye",AA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Aksu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Al-Zahra TV Türkçe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Alanya Posta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Almahriah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="Türkiye",Altaş TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Anadolu Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Bizimev TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Bursa AS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCE.tr" group-title="Türkiye",CNBC-e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="Türkiye",Deniz Postası TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",DHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Diyar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Dost TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Türkiye",Edessa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkiye",Erzurum Web TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Türkiye",ES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",ETV Kayseri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",ETV Manisa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Finans Türk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://trs1.aynaott.com/Finans/index.m3u8
+#EXTINF:-1 group-title="Türkiye",Flash TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lâlegül TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/lalegul-tv-tr.png" group-title="Türkiye",Lâlegül TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="Türkiye",PowerTürk TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="Türkiye",TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tvnet-tr.png" group-title="Türkiye",TVNET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Çay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiye",Çiftçi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="Yedekler",A Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://trkvz-live.ercdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Yedekler",A Türk İzmir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:-1 group-title="Yedekler",ATV Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://streamer2.nexgen.bz/ATV/index.m3u8
+#EXTINF:-1 group-title="Yedekler",Akit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Yedekler",Berat TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 group-title="Yedekler",Bir TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1 group-title="Yedekler",Bursa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 group-title="Yedekler",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 group-title="Yedekler",Can TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 group-title="Yedekler",GRT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/semerkand-tv-tr.png" group-title="Yedekler",Semerkand TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcysilzixqthgjiybzo/playlist.m3u8
+#EXTINF:-1 group-title="Yedekler",Çekmeköy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" group-title="Yedekler",ATV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="Yedekler",ATV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-avrupa-tr.png" group-title="Yedekler",ATV Avrupa (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+https://trkvz-live.daioncdn.net/atvavrupa/atvavrupa.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="Yedekler",Show TV (Yedek 1)
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="Yedekler",Show TV (Yedek 2)
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+https://live20.bozztv.com/trn09/gin-showtv/index.m3u8
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="Yedekler",NOW (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://nowtv-live.ercdn.net/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="Yedekler",NOW (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/canli-yayin
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="Yedekler",TV8 (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="Yedekler",TV8 (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="Yedekler",TV8.5 (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-5-tr.png" group-title="Yedekler",TV8.5 (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="Yedekler",Kanal 7 Avrupa (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-id="A2.tr" group-title="Yedekler",A2 TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360.tr" group-title="Yedekler",360 TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Yedekler",Beyaz TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Yedekler",Beyaz TV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/cnn-turk-tr.png" group-title="Yedekler",CNN Türk (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://demiroren.daioncdn.net/cnnturk/cnnturk.m3u8?app=cnnturk_web&ce=3
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/cnn-turk-tr.png" group-title="Yedekler",CNN Türk (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="Yedekler",NTV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ntv-tr.png" group-title="Yedekler",NTV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/haberturk-tr.png" group-title="Yedekler",Habertürk (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/haberturk-tr.png" group-title="Yedekler",Habertürk (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/sozcu-tv-tr.png" group-title="Yedekler",Sözcü TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/sozcu-tv-tr.png" group-title="Yedekler",Sözcü TV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" group-title="Yedekler",A Haber (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/a-haber-tr.png" group-title="Yedekler",A Haber (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/haber-global-tr.png" group-title="Yedekler",Haber Global (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-100-tr.png" group-title="Yedekler",TV100 (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-100-tr.png" group-title="Yedekler",TV100 (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="Yedekler",Ülke TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/ulke-tv-tr.png" group-title="Yedekler",Ülke TV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.ulketv.com/
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="Yedekler",Bloomberg HT (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="Yedekler",Bloomberg HT (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/bloomberg-ht-tr.png" group-title="Yedekler",Bloomberg HT (Yedek 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-spor-tr.png" group-title="Türkiye",TRT 3 (TRT Spor) (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="Yedekler",A Spor (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" group-title="Yedekler",A Spor (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="Yedekler",TRT World (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/trt-world-tr.png" group-title="Yedekler",TRT World (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="Yedekler",Dream Türk (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dogus.daioncdn.net/dreamturk/dreamturk.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="Yedekler",Dream Türk (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Yedekler",Euro D (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Yedekler",Euro D (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://eurod.daioncdn.net/eurod/eurod.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" group-title="Yedekler",Euro D (Yedek 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" group-title="Yedekler",24 TV (Yedek 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" group-title="Yedekler",24 TV (Yedek 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/24-tr.png" group-title="Yedekler",24 TV (Yedek 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/playlist.m3u8
