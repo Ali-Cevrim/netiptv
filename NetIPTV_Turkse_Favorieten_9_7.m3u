@@ -43,24 +43,28 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-name="İlke TV" group-title="📰 Haber",İlke TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="🇹🇷 Türkiye",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/atv-tr.png" group-title="⭐ Popüler",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="🇹🇷 Türkiye",Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-tv-tr.png" group-title="⭐ Popüler",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="Popüler",Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-d-tr.png" group-title="⭐ Popüler",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.kanald.com.tr/canli-yayin
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="Popüler",Star TV
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/star-tv-tr.png" group-title="⭐ Popüler",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.startv.com.tr/canli-yayin
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="🇹🇷 Türkiye",Kanal 7
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-tr.png" group-title="⭐ Popüler",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="🇹🇷 Türkiye",NOW
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/now-tr.png" group-title="⭐ Popüler",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇹🇷 Türkiye",TV8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="⭐ Popüler",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="⭐ Popüler",Dream Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="⭐ Popüler",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/360-tr.png" group-title="🇹🇷 Türkiye",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/teve-2-tr.png" group-title="🇹🇷 Türkiye",Teve2
@@ -75,10 +79,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="🇹🇷 Türkiye",4U TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="DreamTurk.tr" group-title="🇹🇷 Türkiye",Dream Türk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTürk TV" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/power-turk-tv-tr.png" group-title="🇹🇷 Türkiye",PowerTürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-4-tr.png" group-title="🇹🇷 Türkiye",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Diyanet_TV_logo.png" group-title="🇹🇷 Türkiye",Diyanet TV
@@ -90,66 +90,6 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 #EXTINF:-1 group-title="🇹🇷 Türkiye",Çiftçi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="🇹🇷 Türkiye",Çay TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="🇳🇱 Hollanda",SBS6 Classics
-https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TMF" group-title="🇳🇱 Hollanda",TMF
-https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
-#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/at-5-nl.png" group-title="🇳🇱 Hollanda",AT5
-https://rrr.sz.xlcdn.com/?account=AT5&file=at5&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-id="RTVRijnmond.nl" tvg-name="RTV Rijnmond" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-rijnmond-nl.png" group-title="🇳🇱 Hollanda",RTV Rijnmond
-https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-brabant-nl.png" group-title="🇳🇱 Hollanda",Omroep Brabant
-https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmroepGelderlandTV.nl" tvg-name="Omroep Gelderland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-gelderland-nl.png" group-title="🇳🇱 Hollanda",Omroep Gelderland
-https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:-1 tvg-id="OmroepWestTV.nl" tvg-name="Omroep West" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-west-nl.png" group-title="🇳🇱 Hollanda",Omroep West
-https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVOost.nl" tvg-name="RTV Oost" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-oost-nl.png" group-title="🇳🇱 Hollanda",RTV Oost
-https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVNoord.nl" tvg-name="RTV Noord" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-noord-nl.png" group-title="🇳🇱 Hollanda",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-name="RTV Utrecht" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-utrecht-nl.png" group-title="🇳🇱 Hollanda",RTV Utrecht
-https://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/l1-nl.png" group-title="🇳🇱 Hollanda",L1
-https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmropFryslanTV.nl" tvg-name="Omrop Fryslân" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omrop-fryslan-nl.png" group-title="🇳🇱 Hollanda",Omrop Fryslân
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
-#EXTINF:-1 tvg-id="OmroepZeelandTV.nl" tvg-name="Omroep Zeeland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-zeeland-nl.png" group-title="🇳🇱 Hollanda",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" tvg-name="Omroep Flevoland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-flevoland-nl.png" group-title="🇳🇱 Hollanda",Omroep Flevoland
-https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="🇪🇺 Avrupa",Euro Star
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="🇪🇺 Avrupa",Show Türk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 INT" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇪🇺 Avrupa",TV8 INT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="🌍 Dünya",Euronews English
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/512px-Deutsche_Welle_Logo.svg.png" group-title="🌍 Dünya",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/512px-FRANCE_24_logo.svg.png" group-title="🌍 Dünya",France 24 English
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg Television Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="🌍 Dünya",Bloomberg Television Europe
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World-Japan_logo.svg/512px-NHK_World-Japan_logo.svg.png" group-title="🌍 Dünya",NHK World Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="🌍 Dünya",NASA TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-id="Africanews.fr" tvg-name="Africanews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="🌍 Dünya",Africanews
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:-1 group-title="🌍 Dünya",Almahriah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="🌍 Dünya",Al-Zahra TV Türkçe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="🌍 Dünya",DHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="🌍 Dünya",Dost TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="Deniz Postası TV (Kayseri)" group-title="🏙️ Yerel",Deniz Postası TV (Kayseri)
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -210,3 +150,63 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 group-title="🏙️ Yerel",Anadolu Net TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="🌍 Dünya",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/512px-Deutsche_Welle_Logo.svg.png" group-title="🌍 Dünya",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/512px-FRANCE_24_logo.svg.png" group-title="🌍 Dünya",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg Television Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="🌍 Dünya",Bloomberg Television Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World-Japan_logo.svg/512px-NHK_World-Japan_logo.svg.png" group-title="🌍 Dünya",NHK World Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="🌍 Dünya",NASA TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="Africanews.fr" tvg-name="Africanews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="🌍 Dünya",Africanews
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 group-title="🌍 Dünya",Almahriah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🌍 Dünya",Al-Zahra TV Türkçe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🌍 Dünya",DHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🌍 Dünya",Dost TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="🇳🇱 Hollanda",SBS6 Classics
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMF" group-title="🇳🇱 Hollanda",TMF
+https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/at-5-nl.png" group-title="🇳🇱 Hollanda",AT5
+https://rrr.sz.xlcdn.com/?account=AT5&file=at5&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl" tvg-name="RTV Rijnmond" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-rijnmond-nl.png" group-title="🇳🇱 Hollanda",RTV Rijnmond
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-brabant-nl.png" group-title="🇳🇱 Hollanda",Omroep Brabant
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepGelderlandTV.nl" tvg-name="Omroep Gelderland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-gelderland-nl.png" group-title="🇳🇱 Hollanda",Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepWestTV.nl" tvg-name="Omroep West" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-west-nl.png" group-title="🇳🇱 Hollanda",Omroep West
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl" tvg-name="RTV Oost" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-oost-nl.png" group-title="🇳🇱 Hollanda",RTV Oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoord.nl" tvg-name="RTV Noord" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-noord-nl.png" group-title="🇳🇱 Hollanda",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl" tvg-name="RTV Utrecht" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/rtv-utrecht-nl.png" group-title="🇳🇱 Hollanda",RTV Utrecht
+https://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/l1-nl.png" group-title="🇳🇱 Hollanda",L1
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmropFryslanTV.nl" tvg-name="Omrop Fryslân" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omrop-fryslan-nl.png" group-title="🇳🇱 Hollanda",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepZeelandTV.nl" tvg-name="Omroep Zeeland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-zeeland-nl.png" group-title="🇳🇱 Hollanda",Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevolandTV.nl" tvg-name="Omroep Flevoland" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/netherlands/omroep-flevoland-nl.png" group-title="🇳🇱 Hollanda",Omroep Flevoland
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-d-tr.png" group-title="🇪🇺 Avrupa",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="Euro Star" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/euro-star-tr.png" group-title="🇪🇺 Avrupa",Euro Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/show-turk-tr.png" group-title="🇪🇺 Avrupa",Show Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/kanal-7-avrupa-tr.png" group-title="🇪🇺 Avrupa",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 INT" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/turkey/tv-8-tr.png" group-title="🇪🇺 Avrupa",TV8 INT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
